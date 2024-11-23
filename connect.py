@@ -5,8 +5,8 @@ from sqlalchemy.exc import SQLAlchemyError
 config = {
     'host': 'tech0-db-step4-studentrdb-3.mysql.database.azure.com',
     'user': 'tech0gen7student',
-    'password': '',
-    'database': 'sembaapp',
+    'password': 'vY7JZNfU',
+    'database': 'hamadasan_lec',
     'ssl_ca': 'DigiCertGlobalRootCA.crt.pem'
 }
 
